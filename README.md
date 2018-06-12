@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/137127716.svg)](https://zenodo.org/badge/latestdoi/137127716)
+
+
 # BecariosEC
 Repositorio de la infografia creada para el grupo Becarios EC
 
