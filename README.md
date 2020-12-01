@@ -15,5 +15,7 @@ Visualiza la infografia aqui: https://fgabriel1891.shinyapps.io/AnalisisDatosBec
 
 Información contenida en este repositorio es producida por y es de propiedad de **PhD Network Ecuador** y  **ABREC, Asociación de Becarios del Ecuador**
 Contacto:
+
 http://www.phdecuador.org/
+
 https://www.abrec.org/
