@@ -2,7 +2,7 @@
 
 
 # BecariosEC
-Repositorio de la infografia creada para el grupo Becarios EC
+Repositorio de la infografia creada para observar el resultado de la primera encuesta sobre la situación laboral de los becarios retornados. 
 
 >  Esta infografía interactiva muestra los resultados de la encuesta elaborada y 
    aplicada por el grupo Phd Network, y con apoyo de ABREC. 
